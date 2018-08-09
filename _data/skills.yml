@@ -1,25 +1,20 @@
 - skill:
-  name: Python 
-  level: 65%
-- skill:
   name: Wordpress
   level: 70%
 - skill:
   name: HTML5 & CSS
-  level: 70%
+  level: 90%
 - skill:
   name: PHP
-  level: 30% 
+  level: 85%
 - skill:
-  name: Sony Vegas
-  level: 75%
+  name: Primier Pro
+  level: 50%
 - skill:
   name: Photoshop
   level: 60%
 - skill:
   name: Javascript & jQuery
-  level: 0%
-- skill:
-  name: Angular
-  level: 0%
+  level: 30%
+
 
