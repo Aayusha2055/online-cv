@@ -1,14 +1,11 @@
 intro: "Nothing that great but I have done a couple of projects that might count."
 projects:
   - project:
-    title: Mero-Luga
-    link: "#hook"
-    tagline: "A website template to buy online self designed t-shirt. This was a project on HTML and CSS that I worked on during the freshman year of my college."
+    title: Panache
+    #link: "#hook"
+    tagline: "A website template to buy online designer clothes. This was a project on HTML and CSS that I worked on during the freshman year of my college."
+  
   - project:
-    title: Fast-Food Website
-    link: "#"
-    tagline: "A responsive bootstrap and php website template designed to order fastfood in fastfood restaurents which by the way is incomplete because there was no motivation to complete the website."
-  - project:
-    title: Blockchain Concept
-    link: "https://github.com/Riwajchalise/blockchain_concept_python"
-    tagline: "I don't think this counts as a project but to apply my freshly acquired knowledge on python programming language I made a notebook to might help people understand basics blockchain technology."
+    title: Intern manager at 4Tuples
+    #link: "https://github.com/Riwajchalise/blockchain_concept_python"
+    tagline: "An interface to track working logs of the employess."
